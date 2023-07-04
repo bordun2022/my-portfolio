@@ -8,6 +8,7 @@ body {
   /* background: rgb(250, 225, 196); */
   background-image: url('./img/forest.jpeg');
   background-size: cover;
+  background-repeat: no-repeat;
   color: whitesmoke;
   opacity: 0.9;
 }
