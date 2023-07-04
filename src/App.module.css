@@ -1,0 +1,72 @@
+#image {
+    margin: 0.5rem auto;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-left: 15rem; 
+  }
+
+.image {
+    display: flex;
+    width: 330px;
+    height: 500px;
+    justify-content: center;
+    object-fit: contain;
+    border-radius: 6px;
+    box-shadow: 0 2px 20px rgba(37, 17, 17, 0.924);
+    padding: 1.5rem;
+    transform: translateY(0%);
+    animation-name: show;
+    animation-duration: 3s;
+}
+
+.image:hover {
+    transform: translateY(-2px);
+    transition: transform 0.3s;
+    box-shadow: 0 2px 30px rgba(58, 46, 14, 0.924);
+  }
+
+.text {
+   display: flex;
+   align-items: center;
+   width: 500px;
+   height: 400px;
+   font-size: 18px;
+   padding-left: 30px;
+   font-family:'Fira sans';
+   flex-flow: column;
+   text-align: justify;
+   
+}
+
+.text h2 {
+    animation-name: titleAnimation;
+    animation-timing-function:ease;
+    animation-duration: 2s;
+}
+
+.text p {
+    animation-name: titleAnimation;
+    animation-timing-function:ease;
+    animation-duration: 3s;
+
+
+}
+
+@keyframes show {
+    0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+@keyframes titleAnimation {
+    0% {
+      transform: translateY(-50px);
+      opacity: 1;
+  }
+
+  100% {
+       transform: translateX(0px);
+       opacity: 1;
+    
+  }
+}

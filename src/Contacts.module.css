@@ -1,0 +1,67 @@
+.сontact {
+  display: flex;
+  align-items: center;
+}
+
+.divi {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 550px;
+  width: 300px;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.email {
+  display: flex;
+  gap: 1.5rem;
+  padding-top: 20px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  animation-name: titleAnimation;
+  animation-timing-function: ease;
+  animation-duration: 1.5s;
+}
+
+.email a {
+  text-decoration: none;
+  color: black;
+}
+
+.email a:hover {
+  color: rgb(141, 133, 133);
+  transition: 0.3s linear;
+  text-decoration: underline;
+}
+
+.phone {
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 120px;
+  align-items: center;
+  flex-direction: column;
+  animation-name: titleAnimation;
+  animation-timing-function: ease;
+  animation-duration: 1.5s;
+}
+
+h2 {
+  text-align: center;
+}
+
+@keyframes titleAnimation {
+  0% {
+    transform: translateX(-40px);
+    opacity: 0.4;
+  }
+
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
