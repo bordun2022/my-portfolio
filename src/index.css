@@ -9,11 +9,11 @@ body {
   /* background-image: url('./img/forest.jpeg');
   background-size: cover;
   background-repeat: no-repeat; */
-  color: whitesmoke;
+  color: black;
   opacity: 0.9;
 }
 
 .material-icons {
   margin-top: 4.5px;
-  color: whitesmoke
+  color: black
 }
