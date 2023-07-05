@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.7a42caef.css",
-    "main.js": "/my-portfolio/static/js/main.6cf6ef7d.js",
+    "main.css": "/my-portfolio/static/css/main.453b9b05.css",
+    "main.js": "/my-portfolio/static/js/main.e57822b4.js",
     "static/media/poster.png": "/my-portfolio/static/media/poster.604865d3b4ad7fd20274.png",
     "static/media/concepts.png": "/my-portfolio/static/media/concepts.fd7033332ffb1775f896.png",
     "static/media/foodApp.png": "/my-portfolio/static/media/foodApp.15883a3b16b58cf7aafc.png",
@@ -9,11 +9,11 @@
     "static/media/photo.jpeg": "/my-portfolio/static/media/photo.fb58902924528bdadd49.jpeg",
     "static/media/Bordun_Resume_frontend.pdf": "/my-portfolio/static/media/Bordun_Resume_frontend.297cc983ed10c077c715.pdf",
     "index.html": "/my-portfolio/index.html",
-    "main.7a42caef.css.map": "/my-portfolio/static/css/main.7a42caef.css.map",
-    "main.6cf6ef7d.js.map": "/my-portfolio/static/js/main.6cf6ef7d.js.map"
+    "main.453b9b05.css.map": "/my-portfolio/static/css/main.453b9b05.css.map",
+    "main.e57822b4.js.map": "/my-portfolio/static/js/main.e57822b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a42caef.css",
-    "static/js/main.6cf6ef7d.js"
+    "static/css/main.453b9b05.css",
+    "static/js/main.e57822b4.js"
   ]
 }
