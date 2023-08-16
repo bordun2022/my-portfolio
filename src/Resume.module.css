@@ -11,11 +11,4 @@
   overflow: auto;
 }
 
-@media only screen and (min-width: 700px) {
-  .resume {
-   overflow:hidden;
-   width: fit-content;
-  }
-  }
-
 
