@@ -13,8 +13,8 @@
 
 @media only screen and (max-width: 700px) {
   .resume {
-    display: flex;
-    overflow: scroll;
+   overflow:hidden;
+   width: fit-content;
   }
   }
 
