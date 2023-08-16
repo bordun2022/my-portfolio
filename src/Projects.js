@@ -50,7 +50,7 @@ const Projects = () => {
             navigating, works with layout, using dynamic routes.
           </h4>
         </div>
-      </div>
+      </div>s
     </>
   );
 };

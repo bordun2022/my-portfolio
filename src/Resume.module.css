@@ -1,7 +1,13 @@
+.contex {
+  display: flex;
+  justify-content: center;
+}
+
 .resume {
   display: flex;
-  height: 1200px;
-  width: 900px;
-  margin-left: 250px;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
 }
 
