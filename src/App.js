@@ -8,7 +8,7 @@ function App() {
     <div className={cls.context} id={cls.context}>
     <img src={photo} alt={'Something'} className={cls.image} id={cls.image} ></img>
      <span className={cls.text} id={cls.text}><h2>Hi, I’m Alyona —  beginner frontend web-developer.</h2>
-     <p>I value accountability, persistence and honesty above all else. These postulates are my approach to solving life's problems in general. I like writing code and seeing the result. I improve my knowledge daily, keep it up to date and going to become a part of a the large universe of developers.</p></span>
+     <p>I value accountability, persistence and honesty above all else. These postulates are my approach to solving life's problems in general. I like writing code and seeing the result. I improve my knowledge daily, keep it up to date and aspire to become a part of the large universe of developers.</p></span>
      </div>
     </>
   );
