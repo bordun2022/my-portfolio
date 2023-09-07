@@ -65,3 +65,14 @@ h2 {
     opacity: 1;
   }
 }
+
+@media only screen and (max-width: 840px) {
+  .contact {
+margin-left: 95px;
+  }
+
+  .divi {
+    margin-left: 200px;
+  }
+
+}
