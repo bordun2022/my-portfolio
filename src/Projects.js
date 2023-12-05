@@ -2,7 +2,7 @@ import React from "react";
 import cls from "./Project.module.css";
 import foodApp from "./img/foodApp.png";
 import post from "./img/poster.png";
-import auth from "./img/auth.png";
+import tic from "./img/tic.png";
 import concepts from "./img/concepts.png";
 
 const Projects = () => {
@@ -29,12 +29,11 @@ const Projects = () => {
           </h4>
         </div>
         <div>
-          <a href={'https://bordun2022.github.io/authentication-app/#/'}><img src={auth} alt={"Authentication"} className={cls.images}></img></a>
-          <h3>Authentication App</h3>
+          <a href={'https://bordun2022.github.io/tic-tac-toe/'}><img src={tic} alt={"Authentication"} className={cls.images}></img></a>
+          <h3>Tic-Tac-Toe</h3>
           <h4 className={cls.text}>
-            The basis of this project was the mastering of Authentication Logic,
-            working with query parameters, users login and logic of logout,
-            attaching tokens, store data on the backend.
+            The basis of this project was the mastering of building React components,
+            mapping data, updated states based on previous state, working with copies of data, conditional statements.
           </h4>
         </div>
         <div>
