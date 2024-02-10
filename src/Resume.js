@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from "./pdf/Resume_frontend.pdf";
+import pdf from "./pdf/Resume_frontend_Kyiv.pdf";
 import cls from "./Resume.module.css";
 const Resume = () => {
   return (
