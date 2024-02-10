@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.230c8b03.css",
-    "main.js": "/my-portfolio/static/js/main.d2ca166d.js",
+    "main.js": "/my-portfolio/static/js/main.03ca9a02.js",
     "static/media/poster.png": "/my-portfolio/static/media/poster.604865d3b4ad7fd20274.png",
     "static/media/concepts.png": "/my-portfolio/static/media/concepts.fd7033332ffb1775f896.png",
     "static/media/foodApp.png": "/my-portfolio/static/media/foodApp.15883a3b16b58cf7aafc.png",
     "static/media/tic.png": "/my-portfolio/static/media/tic.17c7a07f3005e7f3d04e.png",
     "static/media/photo.jpeg": "/my-portfolio/static/media/photo.fb58902924528bdadd49.jpeg",
-    "static/media/Resume_frontend.pdf": "/my-portfolio/static/media/Resume_frontend.6b0d301fc2e5d855df77.pdf",
+    "static/media/Resume_frontend_Kyiv.pdf": "/my-portfolio/static/media/Resume_frontend_Kyiv.539c82282ebc75c54057.pdf",
     "index.html": "/my-portfolio/index.html",
     "main.230c8b03.css.map": "/my-portfolio/static/css/main.230c8b03.css.map",
-    "main.d2ca166d.js.map": "/my-portfolio/static/js/main.d2ca166d.js.map"
+    "main.03ca9a02.js.map": "/my-portfolio/static/js/main.03ca9a02.js.map"
   },
   "entrypoints": [
     "static/css/main.230c8b03.css",
-    "static/js/main.d2ca166d.js"
+    "static/js/main.03ca9a02.js"
   ]
 }
